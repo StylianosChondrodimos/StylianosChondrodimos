@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/StylianosChondrodimos">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Software+ Developer+;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines="Computer+Science+Student;Junior+Software+ Developer;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,15 +39,6 @@ Motivated Applied Informatics penultimate-year student at the University of Mace
 
 ---
 
-## 🚀 Featured Project
-
-### 🌐 **ResHub** — Citizen Science Platform
-
-> A bottom-up platform that empowers communities to contribute to scientific research.
-
-🛠️ **Tech Stack:** `Node.js` `Express` `PostgreSQL` `Prisma` `React`
-
----
 
 ## 🛠️ Tech Stack
 
