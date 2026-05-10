@@ -19,7 +19,7 @@ class Stylianos:
         self.department = "Applied Informatics"
         self.location = "Thessaloniki, Greece"
 
-
+```
 ---
 
 ## 🎓 Education
